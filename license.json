@@ -2,5 +2,9 @@
   "A1B2C3D4": {
     "expire": "99991231",
     "status": "active"
+  },
+  "09AFCABD": {
+    "expire": "20261231",
+    "status": "active"
   }
 }
